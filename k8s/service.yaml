@@ -7,6 +7,6 @@ spec:
     app: springboot-openshift
   ports:
     - protocol: TCP
-      port: 80
-      targetPort: 8080
+      port: 8085
+      targetPort: 8085
   type: ClusterIP

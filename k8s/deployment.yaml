@@ -16,4 +16,4 @@ spec:
       - name: springboot-openshift-container
         image: iamshyam1911/springboot-cse-openshift:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 8085
